@@ -6,6 +6,17 @@
 
 - [Resources](#resources)
 
+## Steps
+
+- Create packages and files.
+  - model
+    - UserData (data class)
+    - UserRepository (class)
+  - view
+    - HomePage (file)
+  - viewmodel
+    - HomeViewModel (class)
+
 ## Resources
 
 - YouTube

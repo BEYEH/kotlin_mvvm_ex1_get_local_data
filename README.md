@@ -6,6 +6,12 @@
 
 - [Resources](#resources)
 
+## Architecture
+
+<p>
+  <img src="images/architecture.png" width="500"  alt="architecture.png"/>
+</p>
+
 ## Steps
 
 - Create packages and files.
